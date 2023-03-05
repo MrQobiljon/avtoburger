@@ -1,0 +1,14 @@
+"""
+BU YERDA SIZGA KERAKLI BO'LADIGAN TOKEN VA SHUNGA O'XSHAGAN MA'LUMOTLAR SAQLANADI
+"""
+TOKEN = '5874206759:AAHetaB0D9sfSfwU0KcTKwfzClM8bRinE48'
+PROVIDER_TOKEN = "Pul o'tkazmalari uchun bo'lgan TOKEN buni ham botfatherdan olsa bo'ladi, test versiyasini"
+ADMINS = [1490953190, 5449615825]
+
+DB_NAME = '''BurgerBot'''
+DB_HOST = '''localhost'''
+DB_PASSWORD = '''123456'''
+DB_PORT = '''POSTGRES ISHLATGANDA BAZANI PORTINI SAQLASH UCHUN'''
+DB_USER = '''postgres'''
+
+
